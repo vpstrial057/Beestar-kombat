@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "zainchen.json",
-        "donjayamanne.git-extension-pack"
+        "donjayamanne.git-extension-pack",
+        "redhat.vscode-yaml"
     ]
 }
